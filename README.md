@@ -15,10 +15,6 @@
 
 **Task Manager Pro** is an enterprise-grade task management application designed for modern teams that demand performance, clarity, and visual excellence. It features an ultra-HD, professional corporate interface with glass‑morphism effects, advanced filtering, and real-time task tracking.
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80" alt="Task Manager Pro UI" />
-</p>
-
 ---
 
 ## Key Features
