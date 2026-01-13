@@ -19,7 +19,7 @@
 
 ## Key Features
 
-### 🎨 Ultra HD Professional UI
+###  Ultra HD Professional UI
 
 * Glass‑morphism design with blur effects
 * 4K‑optimized typography and icons
